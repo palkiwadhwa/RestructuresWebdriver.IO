@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+
+# Logs
+logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Project specific
+allure-results
+allure-report
+.tmp
