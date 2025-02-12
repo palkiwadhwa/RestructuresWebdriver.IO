@@ -1,4 +1,4 @@
-import abstract from "../pages/abstractPage";
+const abstract = require('pages/abstractPage');
 class AssetSelectionPage{
     // Page objects
     get dispositionAssetIssuer() {return $(`.issuer-bank-deal-selectors wso-searchable-options:first-of-type input`)}
